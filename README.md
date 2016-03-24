@@ -1,0 +1,1 @@
+![image](https://github.com/zkpeng/Custom-View/blob/master/record.gif)
