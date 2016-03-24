@@ -1,1 +1,1 @@
-![image](https://github.com/zkpeng/Custom-View/blob/master/record.gif)
+![image](https://github.com/zkpeng/HorizonView/blob/master/record2.gif)
